@@ -1,0 +1,22 @@
+baseurl = "https://blog.brandondabreo.com/"
+title = "BlogDon"
+theme = "ghostwriter"
+publishDir = "docs"
+googleAnalytics = "G-6DE12XSKC7"
+disqusShortname = "brandondabreo"
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My public Scribblepad"
+    description = "Hi there! Thanks for visiting :)"
+    github = "https://github.com/donbreo"
+    twitter = "https://twitter.com/donbreo"
+    email = "donbreo@gmail.com"
+    opengraph = true
+    shareTwitter = true
+	
+
+[Permalinks]
+    post = "/:filename/"
+
+
