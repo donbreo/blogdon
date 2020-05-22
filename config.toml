@@ -3,7 +3,7 @@ title = "BlogDon"
 theme = "ghostwriter"
 publishDir = "docs"
 googleAnalytics = "G-6DE12XSKC7"
-disqusShortname = "brandondabreo"
+disqusShortname = "blog-brandondabreo-com"
 [Params]
     mainSections = ["post"]
     intro = true
