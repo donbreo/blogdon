@@ -2,7 +2,6 @@ baseurl = "https://blog.brandondabreo.com/"
 title = "BlogDon"
 theme = "ghostwriter"
 publishDir = "docs"
-googleAnalytics = "G-6DE12XSKC7"
 disqusShortname = "blog-brandondabreo-com"
 [Params]
     mainSections = ["post"]
